@@ -1,11 +1,8 @@
 import type { Metadata } from "next";
-import { Roboto } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
 
-const roboto = Roboto({
-  subsets: ["latin"],
-  weight: ["400", "500"],
-});
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Matthew Cheng",
@@ -20,7 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${roboto.className} bg-gray-50 relative
+        className={`${inter.className} bg-gray-50 relative
         min-h-screen pl-0 pr-0 pt-12 pb-2 mx-10 
         flex justify-center sm:mx-24`}>
         <div className="bg-[#fff3f3] absolute top-[-6rem] -z-10 right-[11rem] h-[31.25rem] w-[31.25rem rounded-full blur-[10rem] sm:w-[68.75rem] "></div>
