@@ -7,20 +7,20 @@ export default function AboutPage() {
     <div className="max-w-2xl w-full">
       <div className="min-h-screen">
         <Navbar />
-        <main className="pt-24 px-6 pb-16">
-          <h1 className="text-3xl font-normal text-gray-700 mb-12 tracking-tight">About</h1>
+        <main className="pt-24 px-6 pb-16 fade-in">
+          <h1 className="heading-primary">hi, I'm matthew</h1>
 
           <div className="space-y-6">
-            <p className="text-gray-700 leading-relaxed">
-              I'm Matthew, a computer science & data science joint major at NYU. I have a passion for building and learning, and exploring how technology can enhance how people learn and work.
+            <p className="body-text">
+              i'm currently a computer science & data science joint major at NYU. i have a passion for building and learning, and exploring how technology can enhance how people learn and work.
             </p>
 
-            <p className="text-gray-700 leading-relaxed">
-              When I'm not coding, you'll find me exploring new restaurants, taking photos, or playing various sports.
+            <p className="body-text">
+              when i'm not coding, you'll find me exploring new restaurants, taking photos, or playing various sports.
             </p>
 
-            <p className="text-gray-700 leading-relaxed">
-              There's always more to learn, and I'm always open to exploring new opportunities; feel free to connect with me!
+            <p className="body-text">
+              there's always more to learn, and i'm always open to exploring new opportunities; feel free to connect with me!
             </p>
 
             <div className="pt-8 flex gap-8">
