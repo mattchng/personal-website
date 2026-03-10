@@ -32,7 +32,7 @@ export default function ExperiencePage() {
               {/* Work Entry 3 */}
               <div>
                 <p className="item-title">
-                  strategized and created marketing campaigns at mlVentures
+                  strategized and created marketing campaigns at MlVentures
                 </p>
                 <p className="item-sub">jun 2023 – aug 2023</p>
               </div>
@@ -110,7 +110,7 @@ export default function ExperiencePage() {
               {/* Leadership Entry 2 */}
               <div className="flex justify-between items-start">
                 <div>
-                  <p className="item-title">Tech@nyu Techtreks - spocial</p>
+                  <p className="item-title">Tech@NYU Techtreks - Spocial</p>
                   <p className="item-sub">product manager</p>
                 </div>
                 <div className="flex gap-4 text-sm ml-4">
