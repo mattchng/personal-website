@@ -16,7 +16,7 @@ export default function AboutPage() {
             </p>
 
             <p className="body-text">
-              when i'm not coding, you'll find me exploring new restaurants, taking photos, or playing various sports.
+              when i'm not building, you'll find me exploring new restaurants, reading, taking photos, or playing various sports.
             </p>
 
             <p className="body-text">
