@@ -3,15 +3,15 @@ import Navbar from "@/components/Navbar";
 
 export default function PhotographyPage() {
   const photos = [
-    { src: "website_img1.webp", caption: "central park" },
-    { src: "website_img2.webp", caption: "east river" },
-    { src: "website_img3.webp", caption: "pier 25" },
-    { src: "website_img4.webp", caption: "chinatown" },
-    { src: "website_img5.webp", caption: "union square" },
-    { src: "website_img6.webp", caption: "santa monica beach" },
-    { src: "website_img7.webp", caption: "central park" },
-    { src: "website_img8.webp", caption: "brooklyn bridge" },
-    { src: "website_img9.webp", caption: "danube river" },
+    { src: "website_img1.jpeg", caption: "central park" },
+    { src: "website_img2.jpeg", caption: "east river" },
+    { src: "website_img3.jpeg", caption: "pier 25" },
+    { src: "website_img4.jpeg", caption: "chinatown" },
+    { src: "website_img5.jpeg", caption: "union square" },
+    { src: "website_img6.jpeg", caption: "santa monica beach" },
+    { src: "website_img7.jpeg", caption: "central park" },
+    { src: "website_img8.jpeg", caption: "brooklyn bridge" },
+    { src: "website_img9.jpeg", caption: "danube river" },
   ];
 
   return (
