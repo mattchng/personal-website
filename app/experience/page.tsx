@@ -16,7 +16,7 @@ export default function ExperiencePage() {
               {/* Work Entry 1 */}
               <div>
                 <p className="item-title">
-                  built internal business analysis tools at <span className="item-title">johnson & johnson</span>
+                  built internal business analysis tools at Johnson & Johnson
                 </p>
                 <p className="item-sub">may 2025 – aug 2025</p>
               </div>
@@ -24,7 +24,7 @@ export default function ExperiencePage() {
               {/* Work Entry 2 */}
               <div>
                 <p className="item-title">
-                  resolved software and hardware issues for faculty at <span className="item-title">nyu tisch</span>
+                  resolved software and hardware issues for faculty at NYU Tisch
                 </p>
                 <p className="item-sub">july 2024 – dec 2024</p>
               </div>
@@ -32,7 +32,7 @@ export default function ExperiencePage() {
               {/* Work Entry 3 */}
               <div>
                 <p className="item-title">
-                  strategized and created marketing campaigns at <span className="item-title">mlventures</span>
+                  strategized and created marketing campaigns at Mlventures
                 </p>
                 <p className="item-sub">jun 2023 – aug 2023</p>
               </div>
