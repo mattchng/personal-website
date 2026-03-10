@@ -32,7 +32,7 @@ export default function ExperiencePage() {
               {/* Work Entry 3 */}
               <div>
                 <p className="item-title">
-                  strategized and created marketing campaigns at Mlventures
+                  strategized and created marketing campaigns at mlVentures
                 </p>
                 <p className="item-sub">jun 2023 – aug 2023</p>
               </div>
@@ -104,13 +104,13 @@ export default function ExperiencePage() {
             <div className="space-y-8">
               {/* Leadership Entry 1 */}
               <div>
-                <p className="item-title">nyu asian cultural union</p>
+                <p className="item-title">NYU Asian Cultural Union</p>
                 <p className="item-sub">vice president of events, graphics lead</p>
               </div>
               {/* Leadership Entry 2 */}
               <div className="flex justify-between items-start">
                 <div>
-                  <p className="item-title">tech@nyu techtriks - spocial</p>
+                  <p className="item-title">Tech@nyu Techtreks - spocial</p>
                   <p className="item-sub">product manager</p>
                 </div>
                 <div className="flex gap-4 text-sm ml-4">
